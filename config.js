@@ -8,7 +8,7 @@ import axios from 'axios';
 import moment from 'moment-timezone'
 
 global.owner = [ //OWNERS
-["5493873232212", '𝙉𝙖𝙪𝙛𝙧𝙖𝙕𝙖𝙥𝙥-𝙈𝘿', true], 
+["2348152119668", 'Light MD', true], 
 ["573108625104"],
 ["34626817680"],
 ["5493873232221"],
@@ -30,7 +30,7 @@ global.mods = []
 global.prems = []
 
 
-global.isdev = [['5493873232212'],
+global.isdev = [['2348152119668'],
 ['5493873232221'],
 ['51929838430']]
 
